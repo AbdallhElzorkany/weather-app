@@ -30,7 +30,7 @@ A modern, responsive weather application built with Next.js, React, and Tailwind
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/AbdallhElzorkany/weather-app.git
    cd weather-app
    ```
 
@@ -77,7 +77,7 @@ weather-app/
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## 🙏 Acknowledgments
 
