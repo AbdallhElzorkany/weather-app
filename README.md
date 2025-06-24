@@ -13,7 +13,6 @@ A modern, responsive weather application built with Next.js, React, and Tailwind
 ## 🚀 Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework for server-side rendering
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [date-fns](https://date-fns.org/) - Modern date utility library
