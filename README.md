@@ -17,7 +17,7 @@ A modern, responsive weather application built with Next.js, React, and Tailwind
 - [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [date-fns](https://date-fns.org/) - Modern date utility library
-- [Lucide Icons](https://lucide.dev/) - Beautiful & consistent icons
+- [Lucide Icons](https://lucide.dev/) - Beautiful & consistent icons.
 
 ## 🛠️ Getting Started
 
